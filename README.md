@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/francisz2/micro.png?label=ready&title=Ready)](https://waffle.io/francisz2/micro)
 # Micro
 
 ## Overview
