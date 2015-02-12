@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="MchpWeb Conference Room Finder Demo" />
+<title>MchpWeb Conference Room Finder</title>
+<link rel="stylesheet" type="text/css" href="../css/main.css" />
+<link rel="stylesheet" href="jquery.ui.autocomplete.css">
+<style type="text/css">
+#demo{width:500px; height:40px; line-height:40px; margin:20px auto}
+input{border:1px solid #ccc; width:360px; height:26px; line-height:26px; padding:2px; font-size:14px; color:#666}
+</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="ui/jquery.ui.core.js"></script>
+<script type="text/javascript" src="ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="ui/jquery.ui.position.js"></script>
+<script type="text/javascript" src="ui/jquery.ui.autocomplete.js"></script>
+<script type="text/javascript">
+$(function(){
+	$( "#key" ).autocomplete({
+		source: "search.php",
+		minLength: 2,
+		autoFocus: true
+	});
+});
+</script>
+</head>
+
+<body>
+<div id="header">
+   <div id="logo"><h1><a href="http://www.microchip.com" title="Microchip Homepage">Home</a></h1></div>
+</div>
+
+<div id="main">
+  <h2 class="top_title"></h2>
+  <p style="height:32px; line-height:32px; margin-top:40px; padding-left:200px"></p>
+  <div id="demo">
+    <input type="text" id="key" name="key" />
+  </div>
+     
+</div>
+<div id="footer">
+    <p> </p>
+</div>
+<p id="stat"><script type="text/javascript" src="http://js.tongji.linezing.com/1870888/tongji.js"></script></p>
+</body>
+</html>
