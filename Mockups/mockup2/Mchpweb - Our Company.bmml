@@ -1,0 +1,242 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1081" measuredH="712" mockupW="838" mockupH="661">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="243" y="51" w="838" h="661" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>10470904</color>
+        <href>Mchpweb%20Main%20Page%26bm%3BMchpweb%20Main%20Page.bmml%26bm%3BMchpweb%20Main%20Page.bmml%26bm%3BMchpweb%20Main%20Page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C838%2C661%22%20href%3D%22Mchpweb%2520Main%2520Page.bmml%22%20alt%3D%22Mchpweb%20Main%20Page%22%20id%3D%221%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Calendar" x="478" y="536" w="101" h="89" measuredW="96" measuredH="96" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="314" y="536" w="89" h="89" measuredW="234" measuredH="230" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mission%20Statement%201%26bm%3BMission%20Statement%201.bmml%26bm%3BMission%20Statement%201.bmml%26bm%3BMission%20Statement%201.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2271%2C485%2C160%2C574%22%20href%3D%22Mission%2520Statement%25201.bmml%22%20alt%3D%22Mission%20Statement%201%22%20id%3D%226%22/%3E</map>
+        <markup>true</markup>
+        <src>./assets/Mission.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="419" y="94" w="149" h="156" measuredW="258" measuredH="261" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/IDC.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="571" y="94" w="149" h="156" measuredW="258" measuredH="255" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/San%2520Jose.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="425" y="96" w="52" h="43" measuredW="227" measuredH="240" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="577" y="96" w="52" h="43" measuredW="227" measuredH="240" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="250" y="96" w="168" h="154" measuredW="261" measuredH="193" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Microchip%2520CHN.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="250" y="96" w="52" h="43" measuredW="227" measuredH="240" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="615" y="223" w="-1" h="-1" measuredW="68" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>San%20Jose</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="441" y="223" w="-1" h="-1" measuredW="93" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IDC%2C%20Banglore</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="290" y="223" w="-1" h="-1" measuredW="89" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chandler%2C%20AZ</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="632" y="536" w="94" h="89" measuredW="213" measuredH="215" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>WW%20Microchip%20Clock%26bm%3BWW%20Microchip%20Clock.bmml%26bm%3BWW%20Microchip%20Clock.bmml%26bm%3BWW%20Microchip%20Clock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22389%2C485%2C483%2C574%22%20href%3D%22WW%2520Microchip%2520Clock.bmml%22%20alt%3D%22WW%20Microchip%20Clock%22%20id%3D%2220%22/%3E</map>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::SubTitle" x="638" y="635" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>WW%20Clock</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::SubTitle" x="477" y="635" w="-1" h="-1" measuredW="104" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>WW%20Calendar</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::SubTitle" x="292" y="637" w="-1" h="-1" measuredW="135" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Mission%20Statement</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="367" y="441" w="51" h="38" measuredW="113" measuredH="98" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Home.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::SubTitle" x="346" y="479" w="95" h="-1" measuredW="90" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>FAB%202%20Web</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="538" y="441" w="51" h="38" measuredW="113" measuredH="98" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Home.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::SubTitle" x="521" y="479" w="93" h="-1" measuredW="90" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>FAB%204%20Web</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="704" y="441" w="51" h="38" measuredW="113" measuredH="98" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Home.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::SubTitle" x="689" y="479" w="89" h="-1" measuredW="82" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Mthai%20Web</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Image" x="881" y="441" w="51" h="38" measuredW="113" measuredH="98" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Home.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::SubTitle" x="862" y="479" w="100" h="-1" measuredW="94" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Europe%20Web</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Image" x="720" y="94" w="167" h="156" measuredW="534" measuredH="384" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Mthai%2520Photo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextInput" x="753" y="223" w="-1" h="-1" measuredW="117" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Microchip%20Thailand</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="726" y="96" w="52" h="43" measuredW="227" measuredH="240" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Image" x="887" y="94" w="186" h="156" measuredW="644" measuredH="385" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Microchip%2520Europe.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextInput" x="902" y="223" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Microchip%20UK</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Image" x="891" y="96" w="52" h="43" measuredW="227" measuredH="240" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Image" x="780" y="532" w="100" h="99" measuredW="181" measuredH="156" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/globe.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::SubTitle" x="769" y="635" w="-1" h="-1" measuredW="122" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Working%20Globally</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Image" x="932" y="536" w="96" h="89" measuredW="224" measuredH="185" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Org%2520Chart.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="925" y="635" w="-1" h="-1" measuredW="112" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>WW%20Org%20Chart</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::SubTitle" x="549" y="66" w="250" h="-1" measuredW="226" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6684672</color>
+        <size>16</size>
+        <text>Passport%20to%20Microchip%20Offices</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="346" y="317" w="300" h="62" measuredW="397" measuredH="82" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Microchip%2520About%2520Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="660" y="314" w="294" h="65" measuredW="398" measuredH="78" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Microchip%2520Overview%2520Video.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Image" x="590" y="327" w="52" h="43" measuredW="227" measuredH="240" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Image" x="899" y="327" w="52" h="43" measuredW="227" measuredH="240" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Video.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::SubTitle" x="589" y="288" w="155" h="-1" measuredW="145" measuredH="24" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6684672</color>
+        <size>16</size>
+        <text>Company%20Overview</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

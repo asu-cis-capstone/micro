@@ -1,0 +1,90 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1596" measuredH="887" mockupW="1580" mockupH="870">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="16" y="17" w="1580" h="870" measuredW="1075" measuredH="529" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mchpweb%20-%20Our%20Company%26bm%3BMchpweb%20-%20Our%20Company.bmml%26bm%3BMchpweb%20-%20Our%20Company.bmml%26bm%3BMchpweb%20-%20Our%20Company.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C1580%2C870%22%20href%3D%22Mchpweb%2520-%2520Our%2520Company.bmml%22%20alt%3D%22Mchpweb%20-%20Our%20Company%22%20id%3D%220%22/%3E</map>
+        <src>./assets/WW%2520Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="262" y="383" w="42" h="38" measuredW="213" measuredH="215" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="211" y="330" w="42" h="38" measuredW="213" measuredH="215" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="315" y="413" w="42" h="38" measuredW="213" measuredH="215" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="413" y="339" w="42" h="38" measuredW="213" measuredH="215" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="348" y="315" w="42" h="38" measuredW="213" measuredH="215" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="1059" y="490" w="42" h="38" measuredW="213" measuredH="215" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="819" y="330" w="42" h="38" measuredW="213" measuredH="215" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="768" y="315" w="42" h="38" measuredW="213" measuredH="215" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="791" y="241" w="42" h="38" measuredW="213" measuredH="215" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="1228" y="398" w="42" h="38" measuredW="213" measuredH="215" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="1243" y="436" w="42" h="38" measuredW="213" measuredH="215" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="1228" y="482" w="42" h="38" measuredW="213" measuredH="215" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="1163" y="490" w="42" h="38" measuredW="213" measuredH="215" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Clock.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

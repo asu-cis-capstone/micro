@@ -1,0 +1,33 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="983" measuredH="382" mockupW="854" mockupH="325">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="129" y="57" w="854" h="325" measuredW="200" measuredH="136" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tools%0AResources</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="207" y="63" w="314" h="297" measuredW="100" measuredH="254" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%0AeApproval%0A%09%0ADMS%20SharePoint%20Apps%0AeSign%0AeTask%0AiTURF%20%28IT%20User%20Request%20Form%29%0ANDA%20%28Non-disclosure%20Agreement%29%0ANSCAR%20%28Non-Standard%20Customer%20Action%20Request%29%0ATPT%20%28Technical%20Publication%20Tracking%29%0ASPACE%20%28%3F%3F%29%0AVacation%20Request</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::List" x="521" y="63" w="132" h="297" measuredW="100" measuredH="128" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%0AFinder%0A%20%0AAcronym%20Wiki%0AConference%20Room%0APeople</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="680" y="61" w="124" h="284" measuredW="100" measuredH="126" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%0AReport%0A%20%0ADashboard%0AiMARS</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="819" y="61" w="149" h="297" measuredW="100" measuredH="128" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%0AOthers%0A%20%0AChange%20Passwords%0AModel-N%0AP-Card%20Reconciliation</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

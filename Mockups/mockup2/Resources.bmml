@@ -1,0 +1,28 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="716" measuredH="445" mockupW="544" mockupH="388">
+  <controls>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="172" y="57" w="544" h="388" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mchpweb%20Main%20Page%26bm%3BMchpweb%20Main%20Page.bmml%26bm%3BMchpweb%20Main%20Page.bmml%26bm%3BMchpweb%20Main%20Page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C544%2C388%22%20href%3D%22Mchpweb%2520Main%2520Page.bmml%22%20alt%3D%22Mchpweb%20Main%20Page%22%20id%3D%227%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::List" x="179" y="64" w="168" h="359" measuredW="100" measuredH="422" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%0A%09Ask%20Steve%20%28%3F%3F%3F%29%0A%09Business%20Card%0A%09Chair%20Message%0A%09Clinic%20Corps%0A%09Employee%20Discount%0A%20%0A%09MoreDirect%0A%09Microchip%20Stores%0A%20%0A%09Purchasing%20Card%0A%20%0A%09ToastMaster%0A%09Translated%20Documents%0A%09Travel%20Resource%0A%20%0A%09Water%20Cooler%20Corner%0A%09Waterfall%0A%09Whistle%20Blower%0A%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::List" x="362" y="75" w="168" h="359" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%09%09Form%0A%20%0A%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::List" x="530" y="75" w="168" h="359" measuredW="100" measuredH="126" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%09%09Template%0A%20%0A%09</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

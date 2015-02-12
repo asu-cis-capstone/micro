@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="591" measuredH="324" mockupW="414" mockupH="286">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="177" y="38" w="414" h="286" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mchpweb%20Main%20Page%26bm%3BMchpweb%20Main%20Page.bmml%26bm%3BMchpweb%20Main%20Page.bmml%26bm%3BMchpweb%20Main%20Page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C414%2C286%22%20href%3D%22Mchpweb%2520Main%2520Page.bmml%22%20alt%3D%22Mchpweb%20Main%20Page%22%20id%3D%220%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="412" y="46" w="155" h="155" measuredW="100" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%0A%09Payroll%0A%20%0ADirect%20Deposit%0AKrono%20Timecard%0A%20%0A%09%0A%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="197" y="46" w="196" h="271" measuredW="100" measuredH="233" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%0A%09%09HR%0A%20%0AAnonymous%20Feedback%0ABenefits%0AFAQ%0AImmigration%0AJob%20Posting%0APolicies%20and%20Procedures%0A%09%0A%09</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

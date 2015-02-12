@@ -1,0 +1,17 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="995" measuredH="1220" mockupW="935" mockupH="1200">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="60" y="20" w="-1" h="-1" measuredW="935" measuredH="597" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mchpweb%20-%20Our%20Company%26bm%3BMchpweb%20-%20Our%20Company.bmml%26bm%3BMchpweb%20-%20Our%20Company.bmml%26bm%3BMchpweb%20-%20Our%20Company.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C935%2C597%22%20href%3D%22Mchpweb%2520-%2520Our%2520Company.bmml%22%20alt%3D%22Mchpweb%20-%20Our%20Company%22%20id%3D%220%22/%3E</map>
+        <src>./assets/Mission%25201.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="60" y="617" w="-1" h="-1" measuredW="935" measuredH="603" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Mission%25202.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
