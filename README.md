@@ -8,9 +8,7 @@ In 2003, SharePoint was chosen to replace Lotus Notes as Microchip’s Intranet 
 ###Meetings
 
 * **Jan. 21: Meeting w/ Louise Tung, form the team, get brief introduce from Microchip**
-  
 * **Jan. 26: Meeting w/ Louise, show our drawing mockups, set time for next meeting, and goal**
-* 
 * **Feb. 11: Meeting w/ Louise, determined tools to be used to develop intranet. Set development environment    accounts**
 
     
