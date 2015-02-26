@@ -1,0 +1,10 @@
+[stock-tools 
+exchange="Fidelity" symbol="MCHP" image_height="180" image_width="210"]
+<a href="https://www.fidelity.com/"
+onclick="window.open(this.href);return false;">
+<img src="http://www.maxsong.us/blog/wp-content/uploads/2015/02/Fidelity.jpg" alt="Fidelity" /></a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://us.etrade.com/home/"
+onclick="window.open(this.href);return false;">
+<img src="http://www.maxsong.us/blog/wp-content/uploads/2015/02/eTrade.png" alt="Etrade" /></a>
+
