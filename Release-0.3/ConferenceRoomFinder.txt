@@ -1,0 +1,143 @@
+Conference Room Autocomplete Search
+
+<script src="http://www.maxsong.us/blog/wp-content/uploads/2015/02/jquery-1.11.2.js"></script><script src="http://www.maxsong.us/blog/wp-content/uploads/2015/02/jquery-ui.js"></script><script>// <![CDATA[
+$(function() {
+var projects = [
+{
+value: "C3- IS Project Room",
+label: "C3- IS Project Room",
+info: "short description for the room, is here",
+desc: "
+<h4>Conference Name:</h4>
+C3 - IS Project Room 
+
+<h4>Room capacity:</h4>
+10 
+
+<h4>Room Equipment:</h4>
+2xProjectors
+3xMonitors
+7xChairs 
+
+<h4>Room Description:</h4>
+This is dummy information,
+this is dummy information,
+this is dummy information,
+this is dummy information.",
+icon: "C3-IS sm.png"
+},
+{
+value: "C3-254",
+label: "C3-254",
+info: "dummie info for C3-254",
+desc: "
+<h4>Conference Name:</h4>
+C3-254 
+
+<h4>Room capacity:</h4>
+15 
+
+<h4>Room Equipment:</h4>
+5xMonitors
+10xChairs 
+
+<h4>Room Description:</h4>
+This is dummy information,
+this is dummy information,
+this is dummy information,
+this is dummy information.",
+icon: "C3-254 sm.png"
+},
+{
+value: "C3-1",
+label: "C3-1",
+info: "make it short",
+desc: "
+<h4>Conference Name:</h4>
+C3-1
+
+<h4>Room capacity:</h4>
+21 
+
+<h4>Room Equipment:</h4>
+5xProjectors
+10xMonitors
+15xChairs 
+
+<h4>Room Description:</h4>
+This is dummy information,
+this is dummy information,
+this is dummy information,
+this is dummy information.",
+icon: "C3-254 sm.png"
+},
+{
+value: "C3-2",
+label: "C3-2",
+info: "this is demo",
+desc: "
+<h4>Conference Name:</h4>
+C3-2 
+
+<h4>Room capacity:</h4>
+5 
+
+<h4>Room Equipment:</h4>
+None 
+
+<h4>Room Description:</h4>
+This is dummy information,
+this is dummy information,
+this is dummy information,
+this is dummy information.",
+icon: "C3-254 sm.png"
+},
+{
+value: "C3-3",
+label: "C3-3",
+info: "demo room 123",
+desc: "
+<h4>Conference Name:</h4>
+C3-3
+
+<h4>Room capacity:</h4>
+42 
+
+<h4>Room Equipment:</h4>
+5xProjectors
+2xMonitors
+15xChairs 
+
+<h4>Room Description:</h4>
+This is dummy information,
+this is dummy information,
+this is dummy information,
+this is dummy information.",
+icon: "C3-254 sm.png"
+}
+];
+$( "#project" ).autocomplete({
+minLength: 0,
+source: projects,
+focus: function( event, ui ) {
+$( "#project" ).val( ui.item.label );
+return false;
+},
+select: function( event, ui ) {
+$( "#project" ).val( ui.item.label );
+$( "#project-id" ).val( ui.item.value );
+$( "#project-description" ).html( ui.item.desc );
+$( "#project-icon" ).attr( "src", "http://www.maxsong.us/blog/images/" + ui.item.icon );
+return false;
+}
+})
+.autocomplete( "instance" )._renderItem = function( ul, item ) {
+return $( "
+	<li>" )
+.append( "<a>" + item.label + "
+" + item.info + "</a>" )
+.appendTo( ul );
+};
+});
+// ]]></script>Please enter the conference room number(e.g. C3-254): <img id="project-icon" class="ui-state-default" alt="" /> <input id="project" type="text" /> <input id="project-id" type="hidden" />
+<p id="project-description"></p>
