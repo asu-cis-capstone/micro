@@ -25,9 +25,9 @@ In 2003, SharePoint was chosen to replace Lotus Notes as Microchip’s Intranet 
     * ~~Set up accounts and development environment~~ 
     * ~~List Intranet home page components and groupings~~ 
 
-3. Release 0.3 – Feb 26: 
-    * Create unpolished Mchpweb home page and conference room finder, and possibly wiki page
-    * Gather sample data for home page components, acronyms, and conference room listing/info, map 
+3. ~~Release 0.3 – Feb 26: ~~
+    * ~~Create unpolished Mchpweb home page and conference room finder, and possibly wiki page~~
+    * ~~Gather sample data for home page components, acronyms, and conference room listing/info, map~~ 
 
 4. Release 0.4 – Mar 12: Create a Youtube video to ???? 
 
