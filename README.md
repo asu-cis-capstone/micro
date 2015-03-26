@@ -7,13 +7,13 @@ In 2003, SharePoint was chosen to replace Lotus Notes as Microchip’s Intranet 
 ##Getting Started 
 ###Meetings
 
-* **Jan. 21: Meeting w/ Louise Tung, form the team, get brief introduce from Microchip**
-* **Jan. 26: Meeting w/ Louise, show our drawing mockups, set time for next meeting, and goal**
-* **Feb. 04: Meeting w/ Louise, get a simple mockup, shows the webpage, and get more files for webpage**
-* **Feb. 11: Meeting w/ Louise, determined tools to be used to develop intranet. Set development environment    accounts**
-* **Feb. 25: Meeting w/ Louise, test dummy setup pages, determine metadata for database for the conference room finder and wiki acronym search**
-* **Mar 11: Meeting w/ Louise, Test MicroWiki, create acronyms in microwiki, talk about implementing world clock**
-
+* **~~Jan. 21: Meeting w/ Louise Tung, form the team, get brief introduce from Microchip~~**
+* **~~Jan. 26: Meeting w/ Louise, show our drawing mockups, set time for next meeting, and goal~~**
+* **~~Feb. 04: Meeting w/ Louise, get a simple mockup, shows the webpage, and get more files for webpage~~**
+* **~~Feb. 11: Meeting w/ Louise, determined tools to be used to develop intranet. Set development environment    accounts~~**
+* **~~Feb. 25: Meeting w/ Louise, test dummy setup pages, determine metadata for database for the conference room finder and wiki acronym search~~**
+* **~~Mar 11: Meeting w/ Louise, Test MicroWiki, create acronyms in microwiki, talk about implementing world clock~~**
+* **~~Mar 24-25: Get feedback from Louise via email, feedback on worldclock, enhanced conference room finder~~**
     
    
 ##To-do List [![Stories in Ready](https://badge.waffle.io/francisz2/micro.png?label=ready&title=Ready)](https://waffle.io/francisz2/micro)
@@ -32,9 +32,9 @@ In 2003, SharePoint was chosen to replace Lotus Notes as Microchip’s Intranet 
 
 4. ~~Release 0.4 – Mar 12: Create a Youtube video to ????~~
 
-5. Release 0.5 – Mar 26: 
-    * Features demo
-    * Determine components to keep for the final product
+5. ~~Release 0.5 – Mar 26:~~
+    * ~~Features demo~~
+    * ~~Determine components to keep for the final product~~
 
 6. Release 0.6 – Apr 9: 
     * Test and bug fix
