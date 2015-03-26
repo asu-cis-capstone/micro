@@ -1,0 +1,123 @@
+<meta charset="utf-8">
+<title>Conference Room Autocomplete Search</title>
+<link rel="stylesheet" href="http://www.maxsong.us/blog/wp-content/uploads/2015/02/jquery-ui.css">
+<script src="http://www.maxsong.us/blog/wp-content/uploads/2015/02/jquery-1.11.2.js"></script>
+<script src="http://www.maxsong.us/blog/wp-content/uploads/2015/02/jquery-ui.js"></script>
+<script src="http://www.maxsong.us/blog/js/jquery.elevatezoom.js"></script>
+<link rel="stylesheet" href="/resources/demos/style.css">
+<style>
+#project-label {
+display: block;
+font-weight: bold;
+margin-bottom: 1em;
+font-size: 20px;
+}
+#project-icon {
+float: left;
+margin-right: 16%;
+height: 600px;
+width: 600px;
+position:relative;
+top: 40px;
+margin-bottom: 50px;
+}
+
+#project-img {
+float: right;
+height: 200px;
+width: 250px;
+position:absolute;
+margin-top: 435px;
+margin-left:650px;
+}
+
+h3 {
+font-size: 20px;
+}
+
+#project-description {
+    margin-bottom: 1.5em;
+    text-align: left;
+    position: relative;
+    left: 620px;
+    top: -645px;
+margin: 10;
+padding: 10;
+}
+
+.ui-autocomplete-input{
+  width: 63.5%;
+  position: relative;
+  top:-650px;  
+}
+
+</style>
+<script>
+$(function() {
+var projects = [
+{
+value: "C3- IS Project Room",
+label: "C3- IS Project Room",
+info: "short description for the room, is here",
+desc: "<h3>Conference Name:</h3>C3 - IS Project Room <br> <h3>Room capacity:</h3>10 <br> <h3>Room Equipment:</h3> 2xProjectors<br>3xMonitors<br>7xChairs <br> <h3>Room Description:</h3>This is dummy information,<br>this is dummy information,<br>this is dummy information,<br>this is dummy information.",
+icon: "C3-IS sm.png",
+img: "conf1.jpg"
+},
+{
+value: "C3-254",
+label: "C3-254",
+info: "dummie info for C3-254",
+desc: "<h3>Conference Name:</h3>C3-254 <br> <h3>Room capacity:</h3>15 <br> <h3>Room Equipment:</h3> 5xMonitors<br>10xChairs <br> <h3>Room Description:</h3>This is dummy information,<br>this is dummy information,<br>this is dummy information,<br>this is dummy information.",
+icon: "C3-254 sm.png",img: "conf2.jpg"
+},
+{
+value: "C3-1",
+label: "C3-1",
+info: "make it short",
+desc: "<h4>Conference Name:</h3>C3-1<br> <h3>Room capacity:</h3>21 <br> <h3>Room Equipment:</h3> 5xProjectors<br>10xMonitors<br>15xChairs <br> <h3>Room Description:</h3>This is dummy information,<br>this is dummy information,<br>this is dummy information,<br>this is dummy information.",
+icon: "C3-254 sm.png"
+},
+{
+value: "C3-2",
+label: "C3-2",
+info: "this is demo",
+desc: "<h3>Conference Name:</h3>C3-2 <br> <h3>Room capacity:</h3>5 <br> <h3>Room Equipment:</h3>None <br> <h3>Room Description:</h3>This is dummy information,<br>this is dummy information,<br>this is dummy information,<br>this is dummy information.",
+icon: "C3-254 sm.png"
+},
+{
+value: "C3-3",
+label: "C3-3",
+info: "demo room 123",
+desc: "<h3>Conference Name:</h3>C3-3<br> <h3>Room capacity:</h3>42 <br> <h3>Room Equipment:</h3> 5xProjectors<br>2xMonitors<br>15xChairs <br> <h3>Room Description:</h3>This is dummy information,<br>this is dummy information,<br>this is dummy information,<br>this is dummy information.",
+icon: "C3-254 sm.png"
+}
+];
+$( "#project" ).autocomplete({
+minLength: 0,
+source: projects,
+focus: function( event, ui ) {
+$( "#project" ).val( ui.item.label );
+return false;
+},
+select: function( event, ui ) {
+$( "#project" ).val( ui.item.label );
+$( "#project-id" ).val( ui.item.value );
+$( "#project-description" ).html( ui.item.desc );
+$( "#project-icon" ).attr( "src", "http://www.maxsong.us/blog/images/" + ui.item.icon );
+$( "#project-img" ).attr( "src", "http://www.maxsong.us/blog/images/" + ui.item.img );
+return false;
+}
+})
+.autocomplete( "instance" )._renderItem = function( ul, item ) {
+return $( "<li>" )
+.append( "<a>" + item.label + " " + item.info + "</a>" )
+.appendTo( ul );
+};
+});
+</script>
+<div id="project-label">Please enter the conference room number(e.g. C3-254):</div>
+<img id="project-icon" src="" data-zoom-image="http://www.maxsong.us/blog/images/C3-IS.png"  alt="" >
+<img id="project-img" src=""  alt="">
+<input id="project">
+<input type="hidden" id="project-id">
+<p id="project-description"></p>
