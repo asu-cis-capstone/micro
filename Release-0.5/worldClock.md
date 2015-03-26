@@ -1,5 +1,5 @@
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  
 codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" 
 width="900" height="425" id="map/map" align="top"><param name="allowScriptAccess" value="always" />
 <param name="movie" value="http://mtzm-map01.info/?colors=cce5a20b30ad0ebdf81266ce071abdb7edce8346&id=98362&busMod=
