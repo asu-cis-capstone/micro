@@ -1,3 +1,9 @@
+Team names:
+Chao Zhu
+Carlos Carbajal
+Song Zhang
+Han Kim
+
 <h1>Create GoDaddy Account</h1>
 <ol type="1">
     <li value="1">Go to www.godaddy.com > Register</li>
