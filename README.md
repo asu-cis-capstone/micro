@@ -1,5 +1,10 @@
 
 # Micro
+Team names:
+Chao Zhu
+Carlos Carbajal
+Song Zhang
+Han Kim
 
 ## Overview
 In 2003, SharePoint was chosen to replace Lotus Notes as Microchip’s Intranet platform. The new Intranet site, Mchpweb, was introduced to the business users with modest beginnings as a simple portal that gave users access to different department sites and various service tools. As Microchip continued to grow in size, business unit, and function, more information was jumbled on existing pages, with the hope that providing a lot of different information would mean that something was relevant to someone. Not having a dedicated development team to release new and improved tools and the absence of an editorial group to provide relevant and current content information further hampered Mchpweb’s usability and user adoption. The following page is a partial screen shot of the current Mchpweb home page which could greatly benefit from better space utilization and more stylish content presentations.
