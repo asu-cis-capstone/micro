@@ -1,3 +1,9 @@
+Team names:
+Chao Zhu
+Carlos Carbajal
+Song Zhang
+Han Kim
+
 == MediaWiki ==
 
 MediaWiki is a popular and free, open-source wiki software package written in
