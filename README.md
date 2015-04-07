@@ -19,7 +19,7 @@ In 2003, SharePoint was chosen to replace Lotus Notes as Microchip’s Intranet 
 * **~~Feb. 25: Meeting w/ Louise, test dummy setup pages, determine metadata for database for the conference room finder and wiki acronym search~~**
 * **~~Mar 11: Meeting w/ Louise, Test MicroWiki, create acronyms in microwiki, talk about implementing world clock~~**
 * **~~Mar 24-25: Get feedback from Louise via email, feedback on worldclock, enhanced conference room finder~~**
-* **~~Apr 1: Meeting with Louise. Generated  excel test document with Louise ~~**
+* **~~Apr 1: Meeting with Louise. Generated  excel test document with Louise~~**
    
 ##To-do List [![Stories in Ready](https://badge.waffle.io/francisz2/micro.png?label=ready&title=Ready)](https://waffle.io/francisz2/micro)
 1. ~~Release 0.1 – Jan 29: Create mockups for~~
