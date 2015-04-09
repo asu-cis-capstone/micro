@@ -98,4 +98,4 @@ Menu, Links, Wikipage, Login, Logout, Edit, Source View, ConferenceFinder, World
 ###Targeting Test 
 Menu, Links, Wikipage, Login, Logout, Edit, Source View, ConferenceFinder, World Clock 
 ###Test Result
-![alt tag](https://github.com/asu-cis-capstone/micro/blob/master/Release-0.6/TestResult.jpg)
+![alt tag](https://github.com/asu-cis-capstone/micro/blob/master/Release-0.6/Spreadsheet.jpg)
