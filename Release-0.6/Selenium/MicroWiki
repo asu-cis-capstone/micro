@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="microTesting2.html">SearchBar</a></td></tr>
+<tr><td><a href="Testing/SearchBar1.html">Microwiki</a></td></tr>
+<tr><td><a href="Testing/Login.html">Login</a></td></tr>
+<tr><td><a href="Testing/Editing.html">Editing</a></td></tr>
+<tr><td><a href="MicroTesting.html">BackToMainPage</a></td></tr>
+<tr><td><a href="Testing/WorldClock.html">WorldClock</a></td></tr>
+<tr><td><a href="Testing/SearchBar2.html">SearchBar</a></td></tr>
+<tr><td><a href="Testing/ConferenceRoom.html">ConferenceRoom</a></td></tr>
+<tr><td><a href="Testing/Menu.html">Menu</a></td></tr>
+<tr><td><a href="Testing/TopMenu.html">TopMenu</a></td></tr>
+<tr><td><a href="Testing/Calander.html">Calander</a></td></tr>
+<tr><td><a href="MicroTesting.html">Links</a></td></tr>
+</tbody></table>
+</body>
+</html>

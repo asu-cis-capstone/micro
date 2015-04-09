@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.maxsong.us/" />
+<title>Editing</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Editing</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/microwiki/index.php?title=Main_Page</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=View source</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#mw-returnto &gt; a[title=&quot;Main Page&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Log in</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=wpPassword1</td>
+	<td>microadmin</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=wpLoginAttempt</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Edit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=wpTextbox1</td>
+	<td>&lt;strong&gt;This is the Wikipedia page for Microchip intranet.&lt;/strong&gt;<br /><br /><br /><br /><br />== Getting started ==<br />* [//www.maxsong.us/microwiki/index.php?title=Microwiki_instruction Wiki Instruction]<br />* [//www.maxsong.us/microwiki/index.php?title=Microwiki_formatting Wiki Formatting]<br />* [//www.maxsong.us/microwiki/index.php?title=Microchip Microchip Wiki]<br />* [//www.maxsong.us/microwiki/index.php?title=Microchip Microchip Wiki]</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=wpSave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Microchip Wiki')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Main page</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Edit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=wpTextbox1</td>
+	<td>&lt;strong&gt;This is the Wikipedia page for Microchip intranet.&lt;/strong&gt;<br /><br /><br /><br /><br />== Getting started ==<br />* [//www.maxsong.us/microwiki/index.php?title=Microwiki_instruction Wiki Instruction]<br />* [//www.maxsong.us/microwiki/index.php?title=Microwiki_formatting Wiki Formatting]<br />* [//www.maxsong.us/microwiki/index.php?title=Microchip Microchip Wiki]<br /><br /></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=wpSave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Log out</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
