@@ -1,9 +1,9 @@
 # Micro Testing
 
 Team names: 
-Chao Zhu
-Carlos Carbajal
-Song Zhang
+Chao Zhu,
+Carlos Carbajal,
+Song Zhang,
 Han Kim
 
 ##Overview
