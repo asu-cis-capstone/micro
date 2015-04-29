@@ -1,4 +1,4 @@
-# Micro Testing
+# Microchip Testing
 
 Team names: 
 Chao Zhu,
